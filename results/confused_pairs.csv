@@ -1,0 +1,18 @@
+model,actual,predicted,count
+KNN,rice,jute,6
+Logistic Regression,rice,jute,5
+KNN,mothbeans,lentil,4
+Logistic Regression,lentil,mothbeans,3
+Decision Tree,rice,jute,3
+Decision Tree,coconut,orange,1
+KNN,jute,coffee,1
+Decision Tree,jute,rice,1
+Logistic Regression,jute,coffee,1
+Logistic Regression,jute,papaya,1
+Logistic Regression,jute,rice,1
+KNN,lentil,blackgram,1
+KNN,mothbeans,blackgram,1
+Decision Tree,mothbeans,lentil,1
+Logistic Regression,mothbeans,lentil,1
+Logistic Regression,mothbeans,pigeonpeas,1
+Logistic Regression,pigeonpeas,mango,1

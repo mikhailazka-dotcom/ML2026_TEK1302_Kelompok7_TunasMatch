@@ -1,0 +1,8 @@
+{
+  "selected_model": "Logistic Regression",
+  "criterion": "Mean outer nested-CV macro-F1 terbesar; tie: SD terkecil lalu nama alfabetis.",
+  "selected_at_utc": "2026-11-10T02:02:02.892559+00:00",
+  "test_used_for_selection": false,
+  "seed": 2026,
+  "protocol_note": "Baseline eksploratif seed=42 pernah diperiksa sebelum paket ini. Eksperimen final menggunakan seed=2026 yang ditetapkan di kode, tanpa mencoba seed demi skor. Tidak ada klaim blind/preregistered study."
+}

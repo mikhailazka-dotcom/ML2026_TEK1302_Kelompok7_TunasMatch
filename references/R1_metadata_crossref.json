@@ -1,0 +1,577 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2026-11-04T20:04:59Z",
+    "timestamp": 1793822699402,
+    "version": "4.6.1"
+  },
+  "reference-count": 51,
+  "publisher": "MDPI AG",
+  "issue": "16",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            22
+          ]
+        ],
+        "date-time": "2022-08-22T00:00:00Z",
+        "timestamp": 1661126400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "Universiti Brunei Darussalam"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sensors"
+  ],
+  "abstract": "<jats:p>Modern agriculture incorporated a portfolio of technologies to meet the current demand for agricultural food production, in terms of both quality and quantity. In this technology-driven farming era, this portfolio of technologies has aided farmers to overcome many of the challenges associated with their farming activities by enabling precise and timely decision making on the basis of data that are observed and subsequently converged. In this regard, Artificial Intelligence (AI) holds a key place, whereby it can assist key stakeholders in making precise decisions regarding the conditions on their farms. Machine Learning (ML), which is a branch of AI, enables systems to learn and improve from their experience without explicitly being programmed, by imitating intelligent behavior in solving tasks in a manner that requires low computational power. For the time being, ML is involved in a variety of aspects of farming, assisting ranchers in making smarter decisions on the basis of the observed data. In this study, we provide an overview of AI-driven precision farming/agriculture with related work and then propose a novel cloud-based ML-powered crop recommendation platform to assist farmers in deciding which crops need to be harvested based on a variety of known parameters. Moreover, in this paper, we compare five predictive ML algorithms—K-Nearest Neighbors (KNN), Decision Tree (DT), Random Forest (RF), Extreme Gradient Boosting (XGBoost) and Support Vector Machine (SVM)—to identify the best-performing ML algorithm on which to build our recommendation platform as a cloud-based service with the intention of offering precision farming solutions that are free and open source, as will lead to the growth and adoption of precision farming solutions in the long run.</jats:p>",
+  "DOI": "10.3390/s22166299",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        22
+      ]
+    ],
+    "date-time": "2022-08-22T05:18:17Z",
+    "timestamp": 1661145497000
+  },
+  "page": "6299",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 144,
+  "title": [
+    "A Cloud Enabled Crop Recommendation Platform for Machine Learning-Driven Precision Farming"
+  ],
+  "prefix": "10.3390",
+  "volume": "22",
+  "author": [
+    {
+      "given": "Navod Neranjan",
+      "family": "Thilakarathne",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Faculty of Integrated Technologies, Universiti Brunei Darussalam, Gadong BE1410, Brunei"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8676-2169",
+      "authenticated-orcid": false,
+      "given": "Muhammad Saifullah Abu",
+      "family": "Bakar",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Integrated Technologies, Universiti Brunei Darussalam, Gadong BE1410, Brunei"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7006-3838",
+      "authenticated-orcid": false,
+      "given": "Pg Emerolylariffion",
+      "family": "Abas",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Integrated Technologies, Universiti Brunei Darussalam, Gadong BE1410, Brunei"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hayati",
+      "family": "Yassin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Integrated Technologies, Universiti Brunei Darussalam, Gadong BE1410, Brunei"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        22
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kumar, A., Sarkar, S., and Pradhan, C. (2019, January 4–6). Recommendation system for crop identification and pest control technique in agriculture. Proceedings of the 2019 International Conference on Communication and Signal Processing (ICCSP), Tamil Nadu, India.",
+      "DOI": "10.1109/ICCSP.2019.8698099"
+    },
+    {
+      "key": "ref_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.17762/ijritcc2321-8169.1503119",
+      "article-title": "Web based recommendation system for farmers",
+      "volume": "3",
+      "author": "Shinde",
+      "year": "2015",
+      "journal-title": "Int. J. Recent Innov. Trends Comput. Commun."
+    },
+    {
+      "key": "ref_3",
+      "first-page": "1475",
+      "article-title": "Crop recommendation system using Neural Networks",
+      "volume": "5",
+      "author": "Banavlikar",
+      "year": "2018",
+      "journal-title": "Int. Res. J. Eng. Technol. (IRJET)"
+    },
+    {
+      "key": "ref_4",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Arooj, A., Riaz, M., and Akram, M.N. (2018, January 19–21). Evaluation of predictive data mining algorithms in soil data classification for optimized crop recommendation. Proceedings of the 2018 International Conference on Advancements in Computational Sciences (ICACS), Lahore, Pakistan.",
+      "DOI": "10.1109/ICACS.2018.8333275"
+    },
+    {
+      "key": "ref_5",
+      "first-page": "950",
+      "article-title": "Crop recommendation system to maximize crop yield using machine learning technique",
+      "volume": "4",
+      "author": "Rajak",
+      "year": "2017",
+      "journal-title": "Int. Res. J. Eng. Technol."
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Pudumalar, S., Ramanujam, E., Rajashree, R.H., Kavya, C., Kiruthika, T., and Nisha, J. (2017, January 19–21). Crop recommendation system for precision agriculture. Proceedings of the 2016 Eighth International Conference on Advanced Computing (ICoAC), Chennai, India.",
+      "DOI": "10.1109/ICoAC.2017.7951740"
+    },
+    {
+      "key": "ref_7",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alam, M., Alam, M.S., Roman, M., Tufail, M., Khan, M.U., and Khan, M.T. (2020, January 14–16). Real-time machine-learning based crop/weed detection and classification for variable-rate spraying in precision agriculture. Proceedings of the 2020 7th International Conference on Electrical and Electronics Engineering (ICEEE), Antalya, Turkey.",
+      "DOI": "10.1109/ICEEE49618.2020.9102505"
+    },
+    {
+      "key": "ref_8",
+      "doi-asserted-by": "crossref",
+      "first-page": "10",
+      "DOI": "10.1109/IOTM.0001.1900037",
+      "article-title": "Energy neutral machine learning based iot device for pest detection in precision agriculture",
+      "volume": "2",
+      "author": "Brunelli",
+      "year": "2019",
+      "journal-title": "IEEE Internet Things Mag."
+    },
+    {
+      "key": "ref_9",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mekonnen, Y., Namuduri, S., Burton, L., Sarwat, A., and Bhansali, S. (2019). Machine learning techniques in wireless sensor network based precision agriculture. J. Electrochem. Soc., 167.",
+      "DOI": "10.1149/2.0222003JES"
+    },
+    {
+      "key": "ref_10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Tsouros, D.C., Triantafyllou, A., Bibi, S., and Sarigannidis, P.G. (2019, January 29–31). Data acquisition and analysis methods in UAV-based applications for Precision Agriculture. Proceedings of the 2019 15th International Conference on Distributed Computing in Sensor Systems (DCOSS), Santorini Island, Greece.",
+      "DOI": "10.1109/DCOSS.2019.00080"
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Treboux, J., and Genoud, D. (2019, January 14). High precision agriculture: An application of improved machine-learning algorithms. Proceedings of the 2019 6th Swiss Conference on Data Science (SDS), Bern, Switzerland.",
+      "DOI": "10.1109/SDS.2019.00007"
+    },
+    {
+      "key": "ref_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "4843",
+      "DOI": "10.1109/ACCESS.2020.3048415",
+      "article-title": "Machine learning applications for precision agriculture: A comprehensive review",
+      "volume": "9",
+      "author": "Sharma",
+      "year": "2020",
+      "journal-title": "IEEE Access"
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Thilakarathne, N.N., Yassin, H., Bakar, M.S.A., and Abas, P.E. (2021, January 8–10). Internet of Things in Smart Agriculture: Challenges, Opportunities and Future Directions. Proceedings of the 2021 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE), Brisbane, Australia.",
+      "DOI": "10.1109/CSDE53843.2021.9718402"
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lawal, Z.K., Yassin, H., and Zakari, R.Y. (2021, January 8–10). Flood Prediction Using Machine Learning Models: A Case Study of Kebbi State Nigeria. Proceedings of the 2021 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE), Brisbane, Australia.",
+      "DOI": "10.1109/CSDE53843.2021.9718497"
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lawal, Z.K., Yassin, H., and Zakari, R.Y. (2020, January 16–18). Stock market prediction using supervised machine learning techniques: An overview. Proceedings of the 2020 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE), Gold Coast, Australia.",
+      "DOI": "10.1109/CSDE50874.2020.9411609"
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zakari, R.Y., Lawal, Z.K., and Abdulmumin, I. (2021). A Systematic Literature Review of Hausa Natural Language Processing. Int. J. Comput. Inf. Technol., 10.",
+      "DOI": "10.24203/ijcit.v10i4.86"
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dimitriadis, S., and Goumopoulos, C. (2008, January 28–30). Applying machine learning to extract new knowledge in precision agriculture applications. Proceedings of the 2008 Panhellenic Conference on Informatics, Samos Island, Greece.",
+      "DOI": "10.1109/PCI.2008.30"
+    },
+    {
+      "key": "ref_18",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ganatra, N., and Patel, A. (2021). Deep Learning Methods and Applications for Precision Agriculture. Machine Learning for Predictive Analysis, Springer.",
+      "DOI": "10.1007/978-981-15-7106-0_51"
+    },
+    {
+      "key": "ref_19",
+      "unstructured": "Reddy, K.S.P., Roopa, Y.M., Ln, K.R., and Nandan, N.S. (2020, January 15–17). IoT based smart agriculture using machine learning. Proceedings of the 2020 Second International Conference on Inventive Research in Computing Applications (ICIRCA), Coimbatore, India."
+    },
+    {
+      "key": "ref_20",
+      "unstructured": "Junior, F.M.R., Bianchi, R.A., Prati, R.C., Kolehmainen, K., Soininen, J.P., and Kamienski, C.A. Data reduction based on machine learning algorithms for fog computing in IoT smart agriculture. Biosyst. Eng., 2022. in press."
+    },
+    {
+      "key": "ref_21",
+      "first-page": "699",
+      "article-title": "Detecting crop health using machine learning techniques in smart agriculture system",
+      "volume": "80",
+      "author": "Shukla",
+      "year": "2021",
+      "journal-title": "J. Sci. Ind. Res. (JSIR)"
+    },
+    {
+      "key": "ref_22",
+      "unstructured": "Ingle, A. (2022, June 11). Crop Recommendation Dataset. Kaggle. 19 December 2020. Available online: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/discussion/224245."
+    },
+    {
+      "key": "ref_23",
+      "unstructured": "Shung, K.P. (2022, June 11). Accuracy, Precision, Recall or F1? Medium. 10 April 2020. Available online: https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9."
+    },
+    {
+      "key": "ref_24",
+      "unstructured": "Solutions, E. (2022, June 11). Accuracy, Precision, Recall & F1 Score: Interpretation of Performance Measures. Exsilio Blog. 11 November 2016. Available online: https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/."
+    },
+    {
+      "key": "ref_25",
+      "first-page": "753",
+      "article-title": "Predicting the price of used cars using machine learning techniques",
+      "volume": "4",
+      "author": "Pudaruth",
+      "year": "2014",
+      "journal-title": "Int. J. Inf. Comput. Technol"
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "125",
+      "DOI": "10.1016/j.comcom.2020.02.078",
+      "article-title": "Towards predictive analysis of android vulnerability using statistical codes and machine learning for IoT applications",
+      "volume": "155",
+      "author": "Cui",
+      "year": "2020",
+      "journal-title": "Comput. Commun."
+    },
+    {
+      "key": "ref_27",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Faisal, F., Nishat, M.M., Mahbub, M.A., Shawon, M.M.I., and Alvi, M.M.U.H. (2021, January 5–7). COVID-19 and its impact on school closures: A predictive analysis using machine learning algorithms. Proceedings of the 2021 International Conference on Science & Contemporary Technologies (ICSCT), Dhaka, Bangladesh.",
+      "DOI": "10.1109/ICSCT53883.2021.9642617"
+    },
+    {
+      "key": "ref_28",
+      "doi-asserted-by": "crossref",
+      "first-page": "1092",
+      "DOI": "10.1016/j.ijforecast.2019.11.005",
+      "article-title": "Predicting bank insolvencies using machine learning techniques",
+      "volume": "36",
+      "author": "Petropoulos",
+      "year": "2020",
+      "journal-title": "Int. J. Forecast."
+    },
+    {
+      "key": "ref_29",
+      "first-page": "409",
+      "article-title": "IOT Based Smart Plant Monitoring System",
+      "volume": "7",
+      "author": "Kumar",
+      "year": "2018",
+      "journal-title": "Int. J. Adv. Res. Sci. Eng."
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alhnaity, B., Pearson, S., Leontidis, G., and Kollias, S. (2019, January 16). Using deep learning to predict plant growth and yield in greenhouse environments. Proceedings of the International Symposium on Advanced Technologies and Management for Innovative Greenhouses: GreenSys2019 1296, Angers, France.",
+      "DOI": "10.17660/ActaHortic.2020.1296.55"
+    },
+    {
+      "key": "ref_31",
+      "unstructured": "Ariyaratne, U.H.D., Vitharana, V., Deelaka, L.H., and Herath, H.M. (2022). IoT Smart Plant Monitoring, Watering and Security System. arXiv."
+    },
+    {
+      "key": "ref_32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Agarwal, S., and Tarar, S. (2021). A hybrid approach for crop yield prediction using machine learning and deep learning algorithms. J. Phys. Conf. Ser., 1714.",
+      "DOI": "10.1088/1742-6596/1714/1/012012"
+    },
+    {
+      "key": "ref_33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yasrab, R., Zhang, J., Smyth, P., and Pound, M.P. (2021). Predicting plant growth from time-series data using deep learning. Remote Sens., 13.",
+      "DOI": "10.3390/rs13030331"
+    },
+    {
+      "key": "ref_34",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/s41598-022-06249-w",
+      "article-title": "Winter wheat yield prediction using convolutional neural networks from environmental and phenological data",
+      "volume": "12",
+      "author": "Srivastava",
+      "year": "2022",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "ref_35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kim, S., Lee, M., and Shin, C. (2018). IoT-based strawberry disease prediction system for smart farming. Sensors, 18.",
+      "DOI": "10.3390/s18114051"
+    },
+    {
+      "key": "ref_36",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Placidi, P., Morbidelli, R., Fortunati, D., Papini, N., Gobbi, F., and Scorzoni, A. (2021). Monitoring soil and ambient parameters in the iot precision agriculture scenario: An original modeling approach dedicated to low-cost soil water content sensors. Sensors, 21.",
+      "DOI": "10.3390/s21155110"
+    },
+    {
+      "key": "ref_37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Raja, S.K.S., Rishi, R., Sundaresan, E., and Srijit, V. (2017, January 7–8). Demand based crop recommender system for farmers. Proceedings of the 2017 IEEE Technological Innovations in ICT for Agriculture and Rural Development (TIAR), Chennai, India.",
+      "DOI": "10.1109/TIAR.2017.8273714"
+    },
+    {
+      "key": "ref_38",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Viviliya, B., and Vaidhehi, V. (2019). The Design of Hybrid Crop Recommendation System using Machine Learning Algorithms. Int. J. Innov. Technol. Explor. Eng. (IJITEE), 9.",
+      "DOI": "10.35940/ijitee.B7219.129219"
+    },
+    {
+      "key": "ref_39",
+      "doi-asserted-by": "crossref",
+      "first-page": "12399",
+      "DOI": "10.1016/j.eswa.2009.04.046",
+      "article-title": "Application of fuzzy cognitive maps for cotton yield management in precision farming",
+      "volume": "36",
+      "author": "Papageorgiou",
+      "year": "2009",
+      "journal-title": "Expert Syst. Appl."
+    },
+    {
+      "key": "ref_40",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1016/j.compag.2018.09.040",
+      "article-title": "An IoT based smart irrigation management system using Machine learning and open source technologies",
+      "volume": "155",
+      "author": "Goap",
+      "year": "2018",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "ref_41",
+      "unstructured": "Njoroge, B.M., Fei, T.K., and Thiruchelvam, V. (2018). A research review of precision farming techniques and technology. J. Appl. Technol. Innov, 2."
+    },
+    {
+      "key": "ref_42",
+      "unstructured": "Grisso, R.D., Alley, M.M., McClellan, P., Brann, D.E., and Donohue, S.J. (2022, June 11). Precision Farming. A Comprehensive Approach. Available online: https://vtechworks.lib.vt.edu/handle/10919/51373."
+    },
+    {
+      "key": "ref_43",
+      "unstructured": "(2022, June 11). Best Free Open Source Farm Management Software. Available online: https://www.goodfirms.co/blog/best-free-open-source-farm-management-software."
+    },
+    {
+      "key": "ref_44",
+      "unstructured": "AgroSense, an Open Source Project by Corizon (2022, June 11). Corizon. AgroSense. (n.d.). Available online: https://agrosense.eu/."
+    },
+    {
+      "key": "ref_45",
+      "unstructured": "(2022, June 11). Tania Open Source Farm Management Sofware (n.d.). Available online: https://usetania.org/."
+    },
+    {
+      "key": "ref_46",
+      "unstructured": "Farmos (2022, June 11). farmOS. (n.d.). Available online: https://farmos.org/."
+    },
+    {
+      "key": "ref_47",
+      "unstructured": "Sustainable Farm Management Software (2022, June 11). LiteFarm. (n.d.). Available online: https://www.litefarm.org/."
+    },
+    {
+      "key": "ref_48",
+      "unstructured": "(2022, June 11). Make More Profitable Decisions for Your Farm with Granular Insights. Granular. 11 April 2022. Available online: https://granular.ag/granular-insights/."
+    },
+    {
+      "key": "ref_49",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1038/s41598-021-82373-3",
+      "article-title": "Combining expert knowledge and machine-learning to classify herd types in livestock systems",
+      "volume": "11",
+      "author": "Brock",
+      "year": "2021",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "ref_50",
+      "doi-asserted-by": "crossref",
+      "first-page": "119",
+      "DOI": "10.21742/apjcri.2018.09.12",
+      "article-title": "IoT livestock estrus monitoring system based on machine learning",
+      "volume": "4",
+      "author": "Lee",
+      "year": "2018",
+      "journal-title": "Asia–Pac. J. Converg. Res. Interchange"
+    },
+    {
+      "key": "ref_51",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.1007/s10272-022-1052-7",
+      "article-title": "The War in Ukraine, Agricultural Trade and Risks to Global Food Security",
+      "volume": "57",
+      "author": "Glauben",
+      "year": "2022",
+      "journal-title": "Intereconomics"
+    }
+  ],
+  "container-title": [
+    "Sensors"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/1424-8220/22/16/6299/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        11
+      ]
+    ],
+    "date-time": "2025-10-11T00:13:22Z",
+    "timestamp": 1760141602000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/1424-8220/22/16/6299"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        22
+      ]
+    ]
+  },
+  "references-count": 51,
+  "journal-issue": {
+    "issue": "16",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "s22166299"
+  ],
+  "URL": "https://doi.org/10.3390/s22166299",
+  "relation": {},
+  "ISSN": [
+    "1424-8220"
+  ],
+  "issn-type": [
+    {
+      "value": "1424-8220",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        22
+      ]
+    ]
+  }
+}

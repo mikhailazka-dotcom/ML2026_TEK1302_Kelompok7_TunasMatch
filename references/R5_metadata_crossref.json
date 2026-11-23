@@ -1,0 +1,241 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        9
+      ]
+    ],
+    "date-time": "2026-11-09T16:29:43Z",
+    "timestamp": 1794241783361,
+    "version": "4.9.0"
+  },
+  "reference-count": 0,
+  "publisher": "Springer Science and Business Media LLC",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2026-09-09T00:00:00Z",
+        "timestamp": 1788912000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2026-09-09T00:00:00Z",
+        "timestamp": 1788912000000
+      },
+      "content-version": "am",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "name": "Manipal University Jaipur"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sci Rep"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Accurate crop selection is a fundamental determinant of farm productivity under varying soil characteristics and climatic conditions. Most current AI-based advisory systems are confined to predictive outputs or generic recommendations, providing little transparency into the reasoning behind a particular crop suggestion. This paper presents KRISHI.AI (derived from the Hindi word “krishi,”meaning“ agriculture,” and“ AI”for“ artificial intelligence), an agriculture-focused explainable artificial intelligence framework for data-driven crop recommendation. The framework recommends suitable crops from seven agronomic and environmental inputs, namely nitrogen (N), phosphorus (P), potassium (K), soil pH, temperature, humidity, and rainfall. It integrates a LightGBM-based multiclass prediction model with SHAP-based feature attribution and agronomically constrained counterfactual “what-if” analysis to explain why a crop is recommended and how feasible changes in the input conditions may alter the recommendation. The system uses a gradient-boosted tree ensemble (LightGBM) to produce high-confidence crop recommendations across 22 crop classes, achieving 99.39% test accuracy and a macro-averaged F1-score of 0.9900. These predictions are supplemented by SHAP (SHapley Additive exPlanations)-based feature-attribution visualizations and counterfactual “what-if” analysis to explain how input factors influence recommendations and how manipulating field conditions modifies crop suitability. Quantitative evaluation of the counterfactual module across 100 test instances exhibits a validity rate of 94.60%, a mean L1 feature-change distance of 0.18, and a mean of 2.10 features modified per scenario-confirming the practical credibility and sparsity of the generated explanations. These capabilities are delivered through an interactive Streamlit web dashboard that provides intuitive real-time feedback, enabling farmers and agricultural practitioners to explore scenario-based decisions without technical expertise. By integrating high-accuracy prediction with human-focused explainability in a single lightweight framework (4.3 MB model, 187 ms response latency), KRISHI.AI advances accessible and trustworthy decision support for technology-driven agriculture, with particular relevance to agricultural decision-support applications serving India’s smallholder farming community. The 189.3 ms value corresponds to the dedicated ablation profiling configuration, whereas 187 ms represents the representative end-to-end latency of the deployed pipeline reported in the main computational profiling experiment. The reported accuracy should be understood as a benchmark performance rather than as evidence of field-ready predictive reliability, because the uniformly balanced dataset does not capture the measurement noise, missing values, spatial heterogeneity, and seasonal variability present in real-world agricultural environments. However, the explainability pipeline and architectural contributions provide a reproducible basis for transparent agricultural AI.</jats:p>",
+  "DOI": "10.1038/s41598-026-68815-w",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        9
+      ]
+    ],
+    "date-time": "2026-09-09T01:15:00Z",
+    "timestamp": 1788916500000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "KRISHI.AI: an explainable machine learning framework for data-driven crop recommendation"
+  ],
+  "prefix": "10.1038",
+  "author": [
+    {
+      "given": "Bhavya",
+      "family": "Dhingra",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Saarang",
+      "family": "Agarwal",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Rishi",
+      "family": "Gupta",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        9
+      ]
+    ]
+  },
+  "container-title": [
+    "Scientific Reports"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41598-026-68815-w",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        9
+      ]
+    ],
+    "date-time": "2026-09-09T01:15:01Z",
+    "timestamp": 1788916501000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41598-026-68815-w"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        9
+      ]
+    ]
+  },
+  "references-count": 0,
+  "alternative-id": [
+    "68815"
+  ],
+  "URL": "https://doi.org/10.1038/s41598-026-68815-w",
+  "relation": {},
+  "ISSN": [
+    "2045-2322"
+  ],
+  "issn-type": [
+    {
+      "value": "2045-2322",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        9
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "17 March 2026",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "24 August 2026",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "9 September 2026",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "label": "Competing interests",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    }
+  ]
+}

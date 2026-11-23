@@ -1,0 +1,47 @@
+{
+  "title": "Klasifikasi Rekomendasi Jenis Tanaman Berdasarkan Kandungan Hara Tanah dan Kondisi Iklim Menggunakan K-Nearest Neighbors, Decision Tree, dan Logistic Regression",
+  "selected_model": "Logistic Regression",
+  "seed": 2026,
+  "n_source": 2200,
+  "n_train": 1760,
+  "n_test": 440,
+  "n_features": 7,
+  "n_classes": 22,
+  "selected_cv": {
+    "model": "Logistic Regression",
+    "cv_f1_macro_mean": 0.9852053635370437,
+    "cv_f1_macro_std": 0.004201507527686479,
+    "cv_accuracy_mean": 0.9852272727272726,
+    "cv_train_f1_mean": 0.9933202806943587,
+    "cv_gap": 0.008114917157315004
+  },
+  "selected_test": {
+    "train_accuracy": 0.9926136363636363,
+    "train_f1_macro": 0.9926093501395129,
+    "accuracy": 0.9681818181818181,
+    "precision_macro": 0.9690435196117014,
+    "recall_macro": 0.9681818181818183,
+    "f1_macro": 0.9678396378974042,
+    "n_correct": 426.0,
+    "n_test": 440.0
+  },
+  "best_params": {
+    "model__C": 100
+  },
+  "model_sha256": "468f0e92676c2d08a44ee7443138f377e91c924ae6bf8821ad0267355e5caac5",
+  "dataset_sha256": "54a5a6e5408668e668667efc50de2fc867c1b875e0431b4f54dd331b0a109a4e",
+  "created_utc": "2026-11-10T02:02:10.586935+00:00",
+  "elapsed_seconds": 47.27,
+  "python": "3.14.7",
+  "versions": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1",
+    "joblib": "1.6.0",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2",
+    "streamlit": "1.65.0"
+  },
+  "test_protocol": "Tidak dipakai tuning/pemilihan; model aplikasi sama dengan model yang dievaluasi, tidak refit seluruh sumber.",
+  "probability_caveat": "Skor predict_proba belum dikalibrasi; bukan peluang sukses panen atau ukuran ketidakpastian yang terjamin."
+}

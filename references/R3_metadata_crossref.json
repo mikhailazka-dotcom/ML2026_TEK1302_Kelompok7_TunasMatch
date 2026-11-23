@@ -1,0 +1,907 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2026-11-04T18:02:47Z",
+    "timestamp": 1793815367550,
+    "version": "4.6.1"
+  },
+  "reference-count": 64,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            17
+          ]
+        ],
+        "date-time": "2025-03-17T00:00:00Z",
+        "timestamp": 1742169600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            17
+          ]
+        ],
+        "date-time": "2025-03-17T00:00:00Z",
+        "timestamp": 1742169600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sci Rep"
+  ],
+  "DOI": "10.1038/s41598-025-93417-3",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        17
+      ]
+    ],
+    "date-time": "2025-03-17T09:15:18Z",
+    "timestamp": 1742202918000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 55,
+  "title": [
+    "Enhancing precision agriculture through cloud based transformative crop recommendation model"
+  ],
+  "prefix": "10.1038",
+  "volume": "15",
+  "author": [
+    {
+      "given": "Gurpreet",
+      "family": "Singh",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sandeep",
+      "family": "Sharma",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        17
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "93417_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "218",
+      "DOI": "10.1016/j.compag.2018.12.039",
+      "volume": "157",
+      "author": "A Khanna",
+      "year": "2019",
+      "unstructured": "Khanna, A. & Kaur, S. Evolution of internet of things (IoT) and its significant impact in the field of precision agriculture. Comput. Electron. Agric. 157, 218–231. https://doi.org/10.1016/j.compag.2018.12.039 (2019).",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "93417_CR2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.iot.2020.100187",
+      "volume": "18",
+      "author": "AD Boursianis",
+      "year": "2022",
+      "unstructured": "Boursianis, A. D. et al. Internet of things (IoT) and agricultural unmanned aerial vehicles (UAVs) in smart farming: A comprehensive review. Internet Things 18, 100187. https://doi.org/10.1016/j.iot.2020.100187 (2022).",
+      "journal-title": "Internet Things"
+    },
+    {
+      "key": "93417_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "2486",
+      "DOI": "10.3390/rs13132486",
+      "volume": "13",
+      "author": "M Ouhami",
+      "year": "2021",
+      "unstructured": "Ouhami, M. et al. Computer vision, IoT and data fusion for crop disease detection using machine learning: A survey and ongoing research. Remote Sens. 13, 2486. https://doi.org/10.3390/rs13132486 (2021).",
+      "journal-title": "Remote Sens."
+    },
+    {
+      "key": "93417_CR4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11042-024-19656-0",
+      "author": "G Singh",
+      "year": "2024",
+      "unstructured": "Singh, G. & Sharma, S. A comprehensive review on the internet of things in precision agriculture. Multimed. Tools Appl. https://doi.org/10.1007/s11042-024-19656-0 (2024).",
+      "journal-title": "Multimed. Tools Appl."
+    },
+    {
+      "key": "93417_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "217",
+      "DOI": "10.21608/jssae.2024.305809.1238",
+      "volume": "15",
+      "author": "M Abo-habaga",
+      "year": "2024",
+      "unstructured": "Abo-habaga, M. et al. Development of an automated cartesian arm for planting seeds in pots. J. Soil Sci. Agric. Eng. 15, 217–224. https://doi.org/10.21608/jssae.2024.305809.1238 (2024).",
+      "journal-title": "J. Soil Sci. Agric. Eng."
+    },
+    {
+      "key": "93417_CR6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jnca.2021.103107",
+      "volume": "187",
+      "author": "M Raj",
+      "year": "2021",
+      "unstructured": "Raj, M. et al. A survey on the role of internet of things for adopting and promoting agriculture 4.0. J. Netw. Comput. Appl. 187, 103107. https://doi.org/10.1016/j.jnca.2021.103107 (2021).",
+      "journal-title": "J. Netw. Comput. Appl."
+    },
+    {
+      "key": "93417_CR7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.agsy.2020.103016",
+      "volume": "187",
+      "author": "D Paudel",
+      "year": "2021",
+      "unstructured": "Paudel, D. et al. Machine learning for large-scale crop yield forecasting. Agric. Syst. 187, 103016. https://doi.org/10.1016/j.agsy.2020.103016 (2021).",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "93417_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "4688",
+      "DOI": "10.17485/ijst/v16i48.2850",
+      "volume": "16",
+      "author": "Y Akkem",
+      "year": "2023",
+      "unstructured": "Akkem, Y. et al. Streamlit application for advanced ensemble learning methods in crop recommendation systems – A review and implementation. Indian J. Sci. Technol. 16, 4688–4702. https://doi.org/10.17485/ijst/v16i48.2850 (2023).",
+      "journal-title": "Indian J. Sci. Technol."
+    },
+    {
+      "key": "93417_CR9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.engappai.2024.107881",
+      "volume": "131",
+      "author": "Y Akkem",
+      "year": "2024",
+      "unstructured": "Akkem, Y. et al. A comprehensive review of synthetic data generation in smart farming by using variational autoencoder and generative adversarial network. Eng. Appl. Artif. Intell. 131, 107881. https://doi.org/10.1016/j.engappai.2024.107881 (2024).",
+      "journal-title": "Eng. Appl. Artif. Intell."
+    },
+    {
+      "key": "93417_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "6299",
+      "DOI": "10.3390/s22166299",
+      "volume": "22",
+      "author": "NN Thilakarathne",
+      "year": "2022",
+      "unstructured": "Thilakarathne, N. N. et al. A cloud-enabled crop recommendation platform for machine learning-driven precision farming. Sensors 22, 6299. https://doi.org/10.3390/s22166299 (2022).",
+      "journal-title": "Sensors"
+    },
+    {
+      "key": "93417_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "169",
+      "DOI": "10.1016/j.future.2021.08.006",
+      "volume": "126",
+      "author": "BB Sinha",
+      "year": "2022",
+      "unstructured": "Sinha, B. B. & Dhanalakshmi, R. Recent advancements and challenges of internet of things in smart agriculture: A survey. Future Gener. Comput. Syst. 126, 169–184. https://doi.org/10.1016/j.future.2021.08.006 (2022).",
+      "journal-title": "Future Gener. Comput. Syst."
+    },
+    {
+      "key": "93417_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "20011",
+      "DOI": "10.1007/s00521-024-10208-z",
+      "volume": "36",
+      "author": "Y Akkem",
+      "year": "2024",
+      "unstructured": "Akkem, Y. et al. Streamlit-based enhancing crop recommendation systems with advanced explainable artificial intelligence for smart farming. Neural Comput. Appl. 36, 20011–20025. https://doi.org/10.1007/s00521-024-10208-z (2024).",
+      "journal-title": "Neural Comput. Appl."
+    },
+    {
+      "key": "93417_CR13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/1742-6596/2161/1/012033",
+      "volume": "2161",
+      "author": "M Shripathi Rao",
+      "year": "2022",
+      "unstructured": "Shripathi Rao, M. et al. Crop prediction using machine learning. J. Phys. Conf. Ser. 2161, 012033. https://doi.org/10.1088/1742-6596/2161/1/012033 (2022).",
+      "journal-title": "J. Phys. Conf. Ser."
+    },
+    {
+      "key": "93417_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1155/2022/7692922",
+      "volume": "2022",
+      "author": "K Phasinam",
+      "year": "2022",
+      "unstructured": "Phasinam, K. et al. Applicability of internet of things in smart farming. J. Food Qual. 2022, 1–7. https://doi.org/10.1155/2022/7692922 (2022).",
+      "journal-title": "J. Food Qual."
+    },
+    {
+      "key": "93417_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "313",
+      "DOI": "10.32604/iasc.2023.029756",
+      "volume": "36",
+      "author": "SS Gopi",
+      "year": "2023",
+      "unstructured": "Gopi, S. S. et al. Multimodal machine learning-based crop recommendation and yield prediction model. Intell. Autom. Soft Comput. 36, 313–326. https://doi.org/10.32604/iasc.2023.029756 (2023).",
+      "journal-title": "Intell. Autom. Soft Comput."
+    },
+    {
+      "key": "93417_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "403",
+      "DOI": "10.3390/sym13030403",
+      "volume": "13",
+      "author": "M Waleed",
+      "year": "2021",
+      "unstructured": "Waleed, M. et al. Classification of agriculture farm machinery using machine learning and Internet of Things. Symmetry 13, 403. https://doi.org/10.3390/sym13030403 (2021).",
+      "journal-title": "Symmetry"
+    },
+    {
+      "key": "93417_CR17",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Priyadharshini, A. et al. Intelligent Crop Recommendation System using Machine Learning. 2021 5th International Conference on Computing Methodologies and Communication (ICCMC). https://doi.org/10.1109/iccmc51019.2021.9418375 (2021).",
+      "DOI": "10.1109/iccmc51019.2021.9418375"
+    },
+    {
+      "key": "93417_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "2023",
+      "DOI": "10.14569/ijacsa.2023.0140450",
+      "volume": "14",
+      "author": "T Alkhudaydi",
+      "year": "2023",
+      "unstructured": "Alkhudaydi, T. et al. Deep learning for combined water quality testing and crop recommendation. Int. J. Adv. Comput. Sci. Appl. 14, 2023. https://doi.org/10.14569/ijacsa.2023.0140450 (2023).",
+      "journal-title": "Int. J. Adv. Comput. Sci. Appl."
+    },
+    {
+      "key": "93417_CR19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1149/2.0222003jes",
+      "volume": "167",
+      "author": "Y Mekonnen",
+      "year": "2019",
+      "unstructured": "Mekonnen, Y. et al. Review—Machine learning techniques in wireless sensor network-based precision agriculture. J. Electrochem. Soc. 167, 037522. https://doi.org/10.1149/2.0222003jes (2019).",
+      "journal-title": "J. Electrochem. Soc."
+    },
+    {
+      "key": "93417_CR20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.engappai.2023.105899",
+      "volume": "120",
+      "author": "Y Akkem",
+      "year": "2023",
+      "unstructured": "Akkem, Y. et al. Smart farming using artificial intelligence: A review. Eng. Appl. Artif. Intell. 120, 105899. https://doi.org/10.1016/j.engappai.2023.105899 (2023).",
+      "journal-title": "Eng. Appl. Artif. Intell."
+    },
+    {
+      "key": "93417_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "13",
+      "DOI": "10.3390/technologies10010013",
+      "volume": "10",
+      "author": "K Bakthavatchalam",
+      "year": "2022",
+      "unstructured": "Bakthavatchalam, K. et al. IoT framework for measurement and precision agriculture: Predicting the crop using machine learning algorithms. Technologies 10, 13. https://doi.org/10.3390/technologies10010013 (2022).",
+      "journal-title": "Technologies"
+    },
+    {
+      "key": "93417_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "1015",
+      "DOI": "10.1007/s11119-018-09628-4",
+      "volume": "20",
+      "author": "P Filippi",
+      "year": "2019",
+      "unstructured": "Filippi, P. et al. An approach to forecast grain crop yield using multi-layered, multi-farm datasets and machine learning. Precis. Agric. 20, 1015–1029. https://doi.org/10.1007/s11119-018-09628-4 (2019).",
+      "journal-title": "Precis. Agric."
+    },
+    {
+      "key": "93417_CR23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.suscom.2019.01.002",
+      "volume": "28",
+      "author": "G Lavanya",
+      "year": "2020",
+      "unstructured": "Lavanya, G. et al. An automated low-cost IoT-based fertilizer intimation system for smart agriculture. Sustain. Comput. Inform. Syst. 28, 100300. https://doi.org/10.1016/j.suscom.2019.01.002 (2020).",
+      "journal-title": "Sustain. Comput. Inform. Syst."
+    },
+    {
+      "key": "93417_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "10235",
+      "DOI": "10.1007/s12652-021-03685-w",
+      "volume": "14",
+      "author": "A Gupta",
+      "year": "2022",
+      "unstructured": "Gupta, A. & Nahar, P. Classification and yield prediction in a smart agriculture system using IoT. J. Ambient Intell. Hum. Comput. 14, 10235–10244. https://doi.org/10.1007/s12652-021-03685-w (2022).",
+      "journal-title": "J. Ambient Intell. Hum. Comput."
+    },
+    {
+      "key": "93417_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1155/2022/5343965",
+      "volume": "2022",
+      "author": "T Blesslin Sheeba",
+      "year": "2022",
+      "unstructured": "Blesslin Sheeba, T. et al. Machine learning algorithm for soil analysis and classification of micronutrients in IoT-enabled automated farms. J. Nanomater. 2022, 1–7. https://doi.org/10.1155/2022/5343965 (2022).",
+      "journal-title": "J. Nanomater."
+    },
+    {
+      "key": "93417_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "604",
+      "DOI": "10.1049/cmu2.12352",
+      "volume": "16",
+      "author": "DK Singh",
+      "year": "2022",
+      "unstructured": "Singh, D. K. et al. LoRa-based intelligent soil and weather condition monitoring with Internet of Things for precision agriculture in smart cities. IET Commun. 16, 604–618. https://doi.org/10.1049/cmu2.12352 (2022).",
+      "journal-title": "IET Commun."
+    },
+    {
+      "key": "93417_CR27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fpls.2019.01750",
+      "author": "S Khaki",
+      "year": "2020",
+      "unstructured": "Khaki, S. et al. A CNN-RNN framework for crop yield prediction. Front. Plant Sci. https://doi.org/10.3389/fpls.2019.01750 (2020).",
+      "journal-title": "Front. Plant Sci."
+    },
+    {
+      "key": "93417_CR28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compag.2022.107119",
+      "volume": "198",
+      "author": "T Shaikh",
+      "year": "2022",
+      "unstructured": "Shaikh, T. et al. Towards leveraging the role of machine learning and artificial intelligence in precision agriculture and smart farming. Comput. Electron. Agricult. 198, 107119. https://doi.org/10.1016/j.compag.2022.107119 (2022).",
+      "journal-title": "Comput. Electron. Agricult."
+    },
+    {
+      "key": "93417_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "3664",
+      "DOI": "10.1109/jiot.2022.3230505",
+      "volume": "10",
+      "author": "A Pagano",
+      "year": "2023",
+      "unstructured": "Pagano, A. et al. A survey on LoRa for smart agriculture: Current trends and future perspectives. IEEE Internet Things J. 10, 3664–3679. https://doi.org/10.1109/jiot.2022.3230505 (2023).",
+      "journal-title": "IEEE Internet Things J."
+    },
+    {
+      "key": "93417_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "133",
+      "DOI": "10.1016/j.agsy.2019.05.007",
+      "volume": "174",
+      "author": "CA O’Sullivan",
+      "year": "2019",
+      "unstructured": "O’Sullivan, C. A. et al. Strategies to improve productivity, product diversity, and profitability of urban agriculture. Agric. Syst. 174, 133–144. https://doi.org/10.1016/j.agsy.2019.05.007 (2019).",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "93417_CR31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/b978-0-12-811050-8.00007-8",
+      "author": "AJ Franzluebbers",
+      "year": "2019",
+      "unstructured": "Franzluebbers, A. J. & Gastal, F. Building agricultural resilience with conservation pasture-crop rotations. Agroecosyst. Divers. https://doi.org/10.1016/b978-0-12-811050-8.00007-8 (2019).",
+      "journal-title": "Agroecosyst. Divers."
+    },
+    {
+      "key": "93417_CR32",
+      "first-page": "22",
+      "volume": "175",
+      "author": "P Bandara",
+      "year": "2020",
+      "unstructured": "Bandara, P. et al. Crop recommendation system. Int. J. Comput. Appl. 175, 22 (2020).",
+      "journal-title": "Int. J. Comput. Appl."
+    },
+    {
+      "key": "93417_CR33",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1201/9781351071246-7",
+      "author": "DW Reeves",
+      "year": "2018",
+      "unstructured": "Reeves, D. W. Cover crops and rotations. Crops Residue Manag. https://doi.org/10.1201/9781351071246-7 (2018).",
+      "journal-title": "Crops Residue Manag."
+    },
+    {
+      "key": "93417_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "0489",
+      "DOI": "10.1007/s13593-018-0489-3",
+      "volume": "38",
+      "author": "E Roos",
+      "year": "2018",
+      "unstructured": "Roos, E. et al. Risks and opportunities of increasing yields in organic farming. A review. Agron. Sustain. Dev. 38, 0489. https://doi.org/10.1007/s13593-018-0489-3 (2018).",
+      "journal-title": "Agron. Sustain. Dev."
+    },
+    {
+      "key": "93417_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "42",
+      "DOI": "10.1177/1744987117741667",
+      "volume": "23",
+      "author": "A Assarroudi",
+      "year": "2018",
+      "unstructured": "Assarroudi, A. et al. Directed qualitative content analysis: The description and elaboration of its underpinning methods and data analysis process. J. Res. Nurs. 23, 42–55. https://doi.org/10.1177/1744987117741667 (2018).",
+      "journal-title": "J. Res. Nurs."
+    },
+    {
+      "key": "93417_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "86",
+      "DOI": "10.1145/3458723",
+      "volume": "64",
+      "author": "T Gebru",
+      "year": "2021",
+      "unstructured": "Gebru, T. et al. Datasheets for datasets. Commun. ACM 64, 86–92. https://doi.org/10.1145/3458723 (2021).",
+      "journal-title": "Commun. ACM"
+    },
+    {
+      "key": "93417_CR37",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compag.2020.105760",
+      "volume": "178",
+      "author": "Y Lu",
+      "year": "2020",
+      "unstructured": "Lu, Y. & Young, S. A survey of public datasets for computer vision tasks in precision agriculture. Comput. Electron. Agricult. 178, 105760. https://doi.org/10.1016/j.compag.2020.105760 (2020).",
+      "journal-title": "Comput. Electron. Agricult."
+    },
+    {
+      "key": "93417_CR38",
+      "doi-asserted-by": "publisher",
+      "first-page": "50",
+      "DOI": "10.5815/ijitcs.2017.03.06",
+      "volume": "9",
+      "author": "A Fatima",
+      "year": "2017",
+      "unstructured": "Fatima, A. et al. Data cleaning in data warehouse: A survey of data pre-processing techniques and tools. Int. J. Inf. Technol. Comput. Sci. 9, 50–61. https://doi.org/10.5815/ijitcs.2017.03.06 (2017).",
+      "journal-title": "Int. J. Inf. Technol. Comput. Sci."
+    },
+    {
+      "key": "93417_CR39",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Obaid, H. S. et al. The impact of data pre-processing techniques and dimensionality reduction on the accuracy of machine learning. In 2019 9th Annual Information Technology, Electromechanical Engineering and Microelectronics Conference (IEMECON). https://doi.org/10.1109/iemeconx.2019.8877011 (2019).",
+      "DOI": "10.1109/iemeconx.2019.8877011"
+    },
+    {
+      "key": "93417_CR40",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-319-43742-2_13",
+      "author": "CM Salgado",
+      "year": "2016",
+      "unstructured": "Salgado, C. M. et al. Missing data. Sec. Anal. Electron. Health Rec. https://doi.org/10.1007/978-3-319-43742-2_13 (2016).",
+      "journal-title": "Sec. Anal. Electron. Health Rec."
+    },
+    {
+      "key": "93417_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "1322",
+      "DOI": "10.1016/j.cjca.2020.11.010",
+      "volume": "37",
+      "author": "PC Austin",
+      "year": "2021",
+      "unstructured": "Austin, P. C. et al. Missing data in clinical research: A tutorial on multiple imputation. Can. J. Cardiol. 37, 1322–1331. https://doi.org/10.1016/j.cjca.2020.11.010 (2021).",
+      "journal-title": "Can. J. Cardiol."
+    },
+    {
+      "key": "93417_CR42",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.trac.2020.116045",
+      "volume": "132",
+      "author": "P Mishra",
+      "year": "2020",
+      "unstructured": "Mishra, P. et al. New data preprocessing trends based on ensemble of multiple preprocessing techniques. TrAC Trends Anal. Chem. 132, 116045. https://doi.org/10.1016/j.trac.2020.116045 (2020).",
+      "journal-title": "TrAC Trends Anal. Chem."
+    },
+    {
+      "key": "93417_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "79",
+      "DOI": "10.2478/rput-2019-0029",
+      "volume": "27",
+      "author": "D Borkin",
+      "year": "2019",
+      "unstructured": "Borkin, D. et al. Impact of data normalization on classification model accuracy. Res. Pap. Fac. Mater. Sci. Technol. Slovak Univ. Technol. 27, 79–84. https://doi.org/10.2478/rput-2019-0029 (2019).",
+      "journal-title": "Res. Pap. Fac. Mater. Sci. Technol. Slovak Univ. Technol."
+    },
+    {
+      "key": "93417_CR44",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Camizuli, E. & Carranza, E. J. Exploratory data analysis (EDA).In The Encyclopedia of Archaeological Sciences. 1–7. https://doi.org/10.1002/9781119188230.saseas0271 (2018).",
+      "DOI": "10.1002/9781119188230.saseas0271"
+    },
+    {
+      "key": "93417_CR45",
+      "doi-asserted-by": "publisher",
+      "first-page": "70",
+      "DOI": "10.1016/j.neucom.2017.11.077",
+      "volume": "300",
+      "author": "J Cai",
+      "year": "2018",
+      "unstructured": "Cai, J. et al. Feature selection in machine learning: A new perspective. Neurocomputing 300, 70–79. https://doi.org/10.1016/j.neucom.2017.11.077 (2018).",
+      "journal-title": "Neurocomputing"
+    },
+    {
+      "key": "93417_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "189",
+      "DOI": "10.1016/j.jbi.2018.07.014",
+      "volume": "85",
+      "author": "RJ Urbanowicz",
+      "year": "2018",
+      "unstructured": "Urbanowicz, R. J. et al. Relief-based feature selection: Introduction and review. J. Biomed. Inform. 85, 189–203. https://doi.org/10.1016/j.jbi.2018.07.014 (2018).",
+      "journal-title": "J. Biomed. Inform."
+    },
+    {
+      "key": "93417_CR47",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fpls.2022.1000224",
+      "volume": "13",
+      "author": "SS Sajid",
+      "year": "2022",
+      "unstructured": "Sajid, S. S. et al. County-scale crop yield prediction by integrating crop simulation with machine learning models. Front. Plant Sci. 13, 100022. https://doi.org/10.3389/fpls.2022.1000224 (2022).",
+      "journal-title": "Front. Plant Sci."
+    },
+    {
+      "key": "93417_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "205",
+      "DOI": "10.1016/j.inffus.2020.07.007",
+      "volume": "64",
+      "author": "S Gonzalez",
+      "year": "2020",
+      "unstructured": "Gonzalez, S. et al. A practical tutorial on bagging and boosting-based ensembles for machine learning. Inform. Fusion 64, 205–237. https://doi.org/10.1016/j.inffus.2020.07.007 (2020).",
+      "journal-title": "Inform. Fusion"
+    },
+    {
+      "key": "93417_CR49",
+      "first-page": "4",
+      "volume": "4",
+      "author": "SS Attaluri",
+      "year": "2020",
+      "unstructured": "Attaluri, S. S. et al. Crop plantation recommendation using feature extraction and machine learning techniques. J. Appl. Technol. Innov. 4, 4 (2020).",
+      "journal-title": "J. Appl. Technol. Innov."
+    },
+    {
+      "key": "93417_CR50",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/3399579.3399867",
+      "author": "A Chen",
+      "year": "2020",
+      "unstructured": "Chen, A. et al. Developments in MLflow. Proc. Fourth Int. Workshop Data Manag. End-to-End Mach. Learn. https://doi.org/10.1145/3399579.3399867 (2020).",
+      "journal-title": "Proc. Fourth Int. Workshop Data Manag. End-to-End Mach. Learn."
+    },
+    {
+      "key": "93417_CR51",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bisong, E. Building machine learning and deep learning models on Google Cloud Platform: A comprehensive guide for beginners. Apress (2019).",
+      "DOI": "10.1007/978-1-4842-4470-8"
+    },
+    {
+      "key": "93417_CR52",
+      "doi-asserted-by": "publisher",
+      "first-page": "1379",
+      "DOI": "10.3390/electronics9091379",
+      "volume": "9",
+      "author": "UA Butt",
+      "year": "2020",
+      "unstructured": "Butt, U. A. et al. A review of machine learning algorithms for cloud computing security. Electronics 9, 1379. https://doi.org/10.3390/electronics9091379 (2020).",
+      "journal-title": "Electronics"
+    },
+    {
+      "key": "93417_CR53",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/1748-9326/ab4034",
+      "volume": "14",
+      "author": "C Allen-Sader",
+      "year": "2019",
+      "unstructured": "Allen-Sader, C. et al. An early warning system to predict and mitigate wheat rust diseases in Ethiopia. Environ. Res. Lett. 14, 115004. https://doi.org/10.1088/1748-9326/ab4034 (2019).",
+      "journal-title": "Environ. Res. Lett."
+    },
+    {
+      "key": "93417_CR54",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.agrformet.2019.107886",
+      "volume": "284",
+      "author": "RA Schwalbert",
+      "year": "2020",
+      "unstructured": "Schwalbert, R. A. et al. Satellite-based soybean yield forecast: Integrating machine learning and weather data for improving crop yield prediction in southern Brazil. Agric. Forest Meteorol. 284, 107886. https://doi.org/10.1016/j.agrformet.2019.107886 (2020).",
+      "journal-title": "Agric. Forest Meteorol."
+    },
+    {
+      "key": "93417_CR55",
+      "doi-asserted-by": "publisher",
+      "first-page": "13941",
+      "DOI": "10.1007/s00521-020-04797-8",
+      "volume": "32",
+      "author": "SH Bhojani",
+      "year": "2020",
+      "unstructured": "Bhojani, S. H. & Bhatt, N. Wheat crop yield prediction using new activation functions in neural network. Neural Comput. Appl. 32, 13941–13951. https://doi.org/10.1007/s00521-020-04797-8 (2020).",
+      "journal-title": "Neural Comput. Appl."
+    },
+    {
+      "key": "93417_CR56",
+      "doi-asserted-by": "publisher",
+      "first-page": "72",
+      "DOI": "10.1016/j.inpa.2019.05.003",
+      "volume": "7",
+      "author": "MS Suchithra",
+      "year": "2020",
+      "unstructured": "Suchithra, M. S. & Pai, M. L. Improving the prediction accuracy of soil nutrient classification by optimizing extreme learning machine parameters. Inf. Process. Agric. 7, 72–82. https://doi.org/10.1016/j.inpa.2019.05.003 (2020).",
+      "journal-title": "Inf. Process. Agric."
+    },
+    {
+      "key": "93417_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "1371",
+      "DOI": "10.1007/s12517-021-07651-w",
+      "volume": "14",
+      "author": "M Elumalai",
+      "year": "2021",
+      "unstructured": "Elumalai, M. & Anouncia, S. M. Development of soil mineral classification using ontology mining. Arab. J. Geosci. 14, 1371. https://doi.org/10.1007/s12517-021-07651-w (2021).",
+      "journal-title": "Arab. J. Geosci."
+    },
+    {
+      "key": "93417_CR58",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/1742-6596/1850/1/012050",
+      "volume": "1850",
+      "author": "A Jose",
+      "year": "2021",
+      "unstructured": "Jose, A. et al. Detection and classification of nutrient deficiencies in plants using machine learning. J. Phys. Conf. Ser. 1850, 012050. https://doi.org/10.1088/1742-6596/1850/1/012050 (2021).",
+      "journal-title": "J. Phys. Conf. Ser."
+    },
+    {
+      "key": "93417_CR59",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.rineng.2021.100203",
+      "volume": "9",
+      "author": "R Dash",
+      "year": "2021",
+      "unstructured": "Dash, R. et al. Classification of crop based on macronutrients and weather data using machine learning techniques. Results Eng. 9, 100203. https://doi.org/10.1016/j.rineng.2021.100203 (2021).",
+      "journal-title": "Results Eng."
+    },
+    {
+      "key": "93417_CR60",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.compag.2020.105860",
+      "volume": "180",
+      "author": "P Shi",
+      "year": "2021",
+      "unstructured": "Shi, P. et al. Rice nitrogen nutrition estimation with RGB images and machine learning methods. Comput. Electron. Agricult. 180, 105860. https://doi.org/10.1016/j.compag.2020.105860 (2021).",
+      "journal-title": "Comput. Electron. Agricult."
+    },
+    {
+      "key": "93417_CR61",
+      "doi-asserted-by": "publisher",
+      "first-page": "57",
+      "DOI": "10.1016/j.compag.2015.11.018",
+      "volume": "121",
+      "author": "XE Pantazi",
+      "year": "2016",
+      "unstructured": "Pantazi, X. E. et al. Wheat yield prediction using machine learning and advanced sensing techniques. Comput. Electron. Agric. 121, 57–65. https://doi.org/10.1016/j.compag.2015.11.018 (2016).",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "93417_CR62",
+      "doi-asserted-by": "publisher",
+      "first-page": "1983",
+      "DOI": "10.1007/s41870-021-00649-2",
+      "volume": "13",
+      "author": "S Shidnal",
+      "year": "2021",
+      "unstructured": "Shidnal, S., Latte, M. V. & Kapoor, A. Crop yield prediction: Two-tiered machine learning model approach. Int. J. Inf. Technol. 13, 1983–1991. https://doi.org/10.1007/s41870-021-00649-2 (2021).",
+      "journal-title": "Int. J. Inf. Technol."
+    },
+    {
+      "key": "93417_CR63",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/LGRS.2017.2681128",
+      "author": "N Kussul",
+      "year": "2017",
+      "unstructured": "Kussul, N. et al. Deep learning classification of land cover and crop types using remote sensing data. IEEE Geosci. Remote Sens. Lett. https://doi.org/10.1109/LGRS.2017.2681128 (2017).",
+      "journal-title": "IEEE Geosci. Remote Sens. Lett."
+    },
+    {
+      "key": "93417_CR64",
+      "doi-asserted-by": "publisher",
+      "first-page": "952",
+      "DOI": "10.1007/s42452-020-2711-6",
+      "volume": "2",
+      "author": "W Mupangwa",
+      "year": "2020",
+      "unstructured": "Mupangwa, W. et al. Evaluating machine learning algorithms for predicting maize yield under conservation agriculture in Eastern and Southern Africa. SN Appl. Sci. 2, 952. https://doi.org/10.1007/s42452-020-2711-6 (2020).",
+      "journal-title": "SN Appl. Sci."
+    }
+  ],
+  "container-title": [
+    "Scientific Reports"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41598-025-93417-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-025-93417-3",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-025-93417-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        17
+      ]
+    ],
+    "date-time": "2025-03-17T09:15:21Z",
+    "timestamp": 1742202921000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41598-025-93417-3"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        17
+      ]
+    ]
+  },
+  "references-count": 64,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "93417"
+  ],
+  "URL": "https://doi.org/10.1038/s41598-025-93417-3",
+  "relation": {},
+  "ISSN": [
+    "2045-2322"
+  ],
+  "issn-type": [
+    {
+      "value": "2045-2322",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        17
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "21 November 2024",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "6 March 2025",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "17 March 2025",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "9138"
+}

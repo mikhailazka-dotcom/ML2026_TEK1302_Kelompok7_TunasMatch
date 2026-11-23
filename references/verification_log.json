@@ -1,0 +1,48 @@
+[
+  {
+    "id": "R1",
+    "doi": "10.3390/s22166299",
+    "checked_utc": "2026-11-10T02:18:46.860989+00:00",
+    "metadata": "Crossref berhasil; judul/penulis/tahun bisa diperiksa pada JSON.",
+    "pdf_status": "Belum tersimpan: HTTP Error 403: Forbidden",
+    "read_online": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9412477/",
+    "full_text": "references/R1_teks_lengkap.txt",
+    "full_text_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9412477/fullTextXML"
+  },
+  {
+    "id": "R2",
+    "doi": "10.1038/s41598-025-07003-8",
+    "checked_utc": "2026-11-10T02:18:51.705678+00:00",
+    "metadata": "Crossref berhasil; judul/penulis/tahun bisa diperiksa pada JSON.",
+    "pdf": "references\\R2_artikel.pdf",
+    "sha256": "50d8901010d8aa822751b1c833898990bf7f9986ccaa7cd5c1babae05f89e76d",
+    "download_url": "https://www.nature.com/articles/s41598-025-07003-8.pdf"
+  },
+  {
+    "id": "R3",
+    "doi": "10.1038/s41598-025-93417-3",
+    "checked_utc": "2026-11-10T02:18:57.625059+00:00",
+    "metadata": "Crossref berhasil; judul/penulis/tahun bisa diperiksa pada JSON.",
+    "pdf": "references\\R3_artikel.pdf",
+    "sha256": "e091bb1acaf66830f7cbdbb4d4eb6d639025ec7275c8a0940aa001dc2ad85a71",
+    "download_url": "https://www.nature.com/articles/s41598-025-93417-3.pdf"
+  },
+  {
+    "id": "R4",
+    "doi": "10.1038/s41598-025-26910-4",
+    "checked_utc": "2026-11-10T02:19:03.549442+00:00",
+    "metadata": "Crossref berhasil; judul/penulis/tahun bisa diperiksa pada JSON.",
+    "pdf": "references\\R4_artikel.pdf",
+    "sha256": "f1c7bf4b45dfc9fbc5f085570e5f0b7c530a2935f82360c73d633d007b4a1a16",
+    "download_url": "https://www.nature.com/articles/s41598-025-26910-4.pdf"
+  },
+  {
+    "id": "R5",
+    "doi": "10.1038/s41598-026-68815-w",
+    "checked_utc": "2026-11-10T02:19:08.008328+00:00",
+    "metadata": "Crossref berhasil; judul/penulis/tahun bisa diperiksa pada JSON.",
+    "pdf": "references\\R5_artikel.pdf",
+    "sha256": "074f14a75ced636fa49db307cb28b69a7d4ede7bad70d241ac95db3997acb067",
+    "download_url": "https://www.nature.com/articles/s41598-026-68815-w_reference.pdf"
+  }
+]

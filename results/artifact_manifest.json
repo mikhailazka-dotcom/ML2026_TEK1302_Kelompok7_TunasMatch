@@ -1,0 +1,19 @@
+{
+  "app.py": "b252a8c4abe3145138edc282527f0432b17391490c54ad55646cd24605d92600",
+  "crop_core.py": "43713413e75a6cb9b0ef124d98b474b45fa2b33d7515f150156c7019086dc924",
+  "train.py": "49e675ae84712ef78b7011e8b990e079dfaabaa94975121feb70ab3c72a37f87",
+  "build_materials.py": "b7964b3c14e03ee3992bc08f9e1de820546eb907a2962bc9d9e235e874be32ef",
+  "build_ppt_template.py": "9c0dfe1cbc5c81dc59c600f266ace781c7b3f6fdab3e6bffa5256bd2038cd069",
+  "PROJEK_TANAMAN.ipynb": "ea214322267c19d4a5df94c02a58089e9eb01f5170f17ba787b6469d778a86c5",
+  "Crop_recommendation.csv": "54a5a6e5408668e668667efc50de2fc867c1b875e0431b4f54dd331b0a109a4e",
+  "models/crop_bundle.joblib": "468f0e92676c2d08a44ee7443138f377e91c924ae6bf8821ad0267355e5caac5",
+  "results/summary.json": "239af3c6e443782a1b02201b1c995a78924b46db3ea181083d67f747955e4c9f",
+  "results/notebook_execution.json": "29c2ba99cd3e5f466758579681386ab8c919eac41efad47a26c4a37cb631d332",
+  "presentation/Laporan_Proyek_Tanaman.pptx": "c05669892805f736fb7be221da37e50ab9c077a6cb89256cc5e256268ab6e6af",
+  "presentation/ppt pengenalan projek.pptx": "d4f2825aa76162be1818eee1e11d900c5294acc5e1638d8df6744577c83d505f",
+  "docs/Penjelasan_Tanaman_Bahasa_Sederhana.docx": "b6791cd4ab4d4b4f16191020f66c54f3bbbe20587d6fc9c3e557bf1894c15d0f",
+  "docs/TEK1302_Kelompok7.docx": "a2e34f5d497dd0a76572ac6b000949eb0f61323c5b3eb811da7d008f877d2520",
+  "references/Daftar_5_Jurnal.md": "0e4fbe0f6d5ff755391f6bfaab6092e18517bc62658b6a8cb2ffd3d4617afb07",
+  "references/Tabel_Studi_Literatur.csv": "f277c9638a3aa66174cf638022eed6f74c81859e8c4a11ddda1fe5f3d381636a",
+  "video/Naskah_Demo_6_Menit_40_Detik.md": "c979e4970e11b8a140e6550fb683146b5a6ae15035f798827bf62c3ca862e4ab"
+}

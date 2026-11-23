@@ -1,0 +1,24 @@
+{
+  "executed_utc": "2026-11-11T14:33:01.411966+00:00",
+  "checks_passed": [
+    "startup_brand",
+    "desktop_header_and_side_by_side_cards",
+    "single_prediction",
+    "batch_22_rows",
+    "invalid_humidity_rejected",
+    "evaluation_page",
+    "confusion_page",
+    "feature_tree_page",
+    "dataset_page",
+    "guide_page",
+    "reset_clears_results",
+    "mobile_header_and_stacked_cards",
+    "mobile_no_horizontal_overflow"
+  ],
+  "page_errors": [],
+  "video": "video/demo_aplikasi.mp4",
+  "note": "Rekaman layar nyata tanpa narasi/perkenalan; bukan video final kelompok.",
+  "duration_metadata": [
+    "Duration: 00:01:11.32, start: 0.000000, bitrate: 187 kb/s"
+  ]
+}

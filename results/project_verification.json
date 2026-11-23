@@ -1,0 +1,51 @@
+{
+  "verified_utc": "2026-11-23T16:22:18.472826+00:00",
+  "app_name": "TunasMatch",
+  "group_name": "Kelompok 7",
+  "class": "TEK1302|Pembelajaran Mesin",
+  "members": [
+    "Azaria Nur Febriasari (J0404241041)",
+    "Radinal Avram Utama (J0404241161)",
+    "Mikhail Rafi Azka (J0404241168)"
+  ],
+  "required_files": 17,
+  "notebook_code_cells": 20,
+  "notebook_errors": 0,
+  "ppt_slides": 22,
+  "word_paragraphs": 246,
+  "portofolio_paragraphs": 26,
+  "selected_model": "Logistic Regression",
+  "pytest_core": "...................                                                      [100%]\n19 passed, 1 deselected in 2.12s",
+  "browser": {
+    "executed_utc": "2026-11-11T14:33:01.411966+00:00",
+    "checks_passed": [
+      "startup_brand",
+      "desktop_header_and_side_by_side_cards",
+      "single_prediction",
+      "batch_22_rows",
+      "invalid_humidity_rejected",
+      "evaluation_page",
+      "confusion_page",
+      "feature_tree_page",
+      "dataset_page",
+      "guide_page",
+      "reset_clears_results",
+      "mobile_header_and_stacked_cards",
+      "mobile_no_horizontal_overflow"
+    ],
+    "page_errors": [],
+    "video": "video/demo_aplikasi.mp4",
+    "note": "Rekaman layar nyata tanpa narasi/perkenalan; bukan video final kelompok.",
+    "duration_metadata": [
+      "Duration: 00:01:11.32, start: 0.000000, bitrate: 187 kb/s"
+    ]
+  },
+  "local_pdf_articles": 4,
+  "human_steps_remaining": [
+    "Rekam/sunting video demo akhir maksimal 7 menit dengan perkenalan & narasi ketiga anggota (menunjukkan aplikasi TunasMatch dijalankan nyata).",
+    "Rename folder pengumpulan sebelum unggah sesuai format ML2026_Kelas_NamaKelompok_JudulProject (mis. ML2026_TEK1302_Kelompok7_TunasMatch).",
+    "Pastikan seluruh 3 anggota siap menjelaskan konsep, metode, kode, hasil, dan aplikasi pada sesi tanya jawab individu.",
+    "Deployment online opsional (Streamlit Community Cloud) belum diisi — aplikasi lokal siap dijalankan."
+  ],
+  "status": "Seluruh artefak teknis, identitas kelompok, PPT Laporan A–O, Word, Portofolio CLASS-IPB, dan Notebook sudah lengkap & terverifikasi (tinggal video demo final & rename folder saat pengumpulan)."
+}

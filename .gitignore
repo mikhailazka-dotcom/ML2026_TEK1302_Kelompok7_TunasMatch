@@ -1,0 +1,23 @@
+# Cache & environment lokal
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+.streamlit/secrets.toml
+*.log
+~$*
+
+# Dokumen instruksi dosen (bukan output proyek)
+Panduan_Project_Akhir_Pembelajaran_Mesin_TEK1302_M15.pdf
+Deskripsi Ketentuan Project.txt
+
+# Render bantu slide & bahan rekaman layar mentah
+presentation/render/
+presentation/Contact_Sheet.png
+video/demo_aplikasi.mp4
+
+# Draf dokumen tambahan lokal (simpan dokumen final saja di GitHub)
+docs/Bahan_Penyusunan_Jurnal_Tanaman.docx
+docs/Penjelasan Projek ML_*.docx
+docs/Template_Notebook_Tanpa_Output.ipynb

@@ -1,0 +1,24 @@
+{
+  "group_name": "Kelompok 7",
+  "class": "TEK1302|Pembelajaran Mesin",
+  "members": [
+    {
+      "name": "Azaria Nur Febriasari",
+      "nim": "J0404241041",
+      "task": "Dataset, EDA, Preprocessing, dan Studi Literatur"
+    },
+    {
+      "name": "Radinal Avram Utama",
+      "nim": "J0404241161",
+      "task": "Pengembangan Model, Tuning, Nested CV, dan Evaluasi"
+    },
+    {
+      "name": "Mikhail Rafi Azka",
+      "nim": "J0404241168",
+      "task": "Implementasi Aplikasi TunasMatch, Dokumentasi, dan Video Demo"
+    }
+  ],
+  "deployment_url": "",
+  "video_url": "",
+  "note": "Kelompok 7 - TunasMatch"
+}

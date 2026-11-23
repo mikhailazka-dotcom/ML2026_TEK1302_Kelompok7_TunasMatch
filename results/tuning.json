@@ -1,0 +1,27 @@
+{
+  "KNN": {
+    "best_params": {
+      "model__n_neighbors": 5,
+      "model__p": 1,
+      "model__weights": "distance"
+    },
+    "inner_training_cv_score": 0.982367201033329,
+    "n_candidates": 20
+  },
+  "Decision Tree": {
+    "best_params": {
+      "model__criterion": "gini",
+      "model__max_depth": 12,
+      "model__min_samples_leaf": 1
+    },
+    "inner_training_cv_score": 0.9886077923571456,
+    "n_candidates": 24
+  },
+  "Logistic Regression": {
+    "best_params": {
+      "model__C": 100
+    },
+    "inner_training_cv_score": 0.984076958562684,
+    "n_candidates": 5
+  }
+}
