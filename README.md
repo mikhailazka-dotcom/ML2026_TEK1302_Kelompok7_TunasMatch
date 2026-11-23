@@ -7,6 +7,11 @@ Klasifikasi Rekomendasi Jenis Tanaman Berdasarkan Kandungan Hara Tanah dan Kondi
 - Radinal Avram Utama (`J0404241161`) — Pengembangan Model, Tuning, Nested CV, dan Evaluasi
 - Mikhail Rafi Azka (`J0404241168`) — Implementasi Aplikasi TunasMatch, Dokumentasi, dan Video Demo
 
+## Tautan Penting
+- **Aplikasi Web Online (TunasMatch):** https://ml2026tek1302kelompok7tunasmatch.streamlit.app
+- **Repository GitHub:** https://github.com/mikhailazka-dotcom/ML2026_TEK1302_Kelompok7_TunasMatch
+- **Dataset Sumber:** https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+
 Paket lokal lengkap: dataset, training, nested CV/tuning, notebook ber-output, model terlatih, aplikasi Streamlit **TunasMatch**, PPT Laporan Project (Bagian A–O), dokumen Portofolio CLASS-IPB, buku Word berbahasa sederhana, lima jurnal/tabel studi literatur, skrip uji otomatis, dan bahan demo. Baca `MULAI_DI_SINI.md`.
 
 ## Jalankan aplikasi

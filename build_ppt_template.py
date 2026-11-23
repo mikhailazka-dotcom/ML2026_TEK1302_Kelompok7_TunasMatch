@@ -904,18 +904,21 @@ def build_ppt_from_template(s: dict, config: dict, cv: pd.DataFrame, test: pd.Da
     sl = _clone_slide(prs, 5)
     _remove_by_names(sl, {"Freeform 17"})
     _add_badge_and_footer(sl, "Bagian L • Demo Project", 17, total_pages, light_footer=False)
+    dep_url = config.get("deployment_url") or "Aplikasi lokal (python -m streamlit run app.py)"
+    repo_url = config.get("repo_url") or ""
     _format_slide6_left(
         sl,
         f"DEMO APLIKASI {APP_NAME.upper()}",
-        "Aplikasi web dijalankan langsung (streamlit run app.py)",
-        "Alur demonstrasi langsung:\n"
+        f"Online: {dep_url}",
+        "Alur demonstrasi langsung (bisa dibuka online maupun lokal):\n"
         "1. Prediksi 1 Lahan: Muat contoh Padi atau isi 7 angka → klik 'Lihat rekomendasi' → tampil kelas utama (97,9%), top-3 skor, dan profil training.\n"
         "2. Prediksi Batch CSV: Unggah examples/contoh_batch.csv (22 lahan) → proses → unduh hasil_batch.csv.\n"
         "3. Uji Validasi Error: Unggah examples/contoh_tidak_valid.csv (humidity=120%) → aplikasi menolak dengan pesan jelas.\n"
         "4. Evaluasi & Dataset: Tampilkan perbandingan CV/test, confusion matrix, dan grafik EDA.\n"
-        "Teruji otomatis: 13 pengecekan browser (desktop & mobile) lulus tanpa error.",
+        "Teruji otomatis: 13 pengecekan browser (desktop & mobile) + live di Streamlit Cloud.",
         title_size=54,
-        body_size=17.8,
+        sub_size=17.5,
+        body_size=17.5,
     )
     _add_image_card(sl, ROOT / "assets/screenshot_prediksi.png", 10.18, 2.15, 9.25, 7.9, pad=0.18)
     _set_notes(sl, "Bagian L: Screenshot berasal dari aplikasi TunasMatch yang benar-benar dijalankan. Saat presentasi dan video demo, jalankan aplikasi secara langsung melalui JALANKAN_APLIKASI.bat atau streamlit run app.py.")
@@ -935,7 +938,7 @@ def build_ppt_from_template(s: dict, config: dict, cv: pd.DataFrame, test: pd.Da
         body,
         "• Ketiga algoritma (KNN, Decision Tree, Logistic Regression) berhasil mengklasifikasikan 22 jenis tanaman dari 7 parameter tanah & iklim pada 2.200 data seimbang.\n"
         "• Logistic Regression dipilih secara sah melalui Nested CV Macro-F1 (0,985205; gap terkecil 0,0081), mencapai akurasi uji 96,82% (426/440 benar) tanpa memilih ulang dari data test.\n"
-        "• Aplikasi web TunasMatch berjalan lokal secara reproduktif (input tunggal, batch CSV, validasi ketat, & audit evaluasi) sebagai prototipe edukasi berbasis pola data.",
+        "• Aplikasi web TunasMatch sudah online di Streamlit Cloud (dan siap lokal) dengan input tunggal, batch CSV, validasi ketat, & audit evaluasi sebagai prototipe edukasi berbasis pola data.",
         size=18.5,
         bold=False,
         color=WHITE,
@@ -977,7 +980,7 @@ def build_ppt_from_template(s: dict, config: dict, cv: pd.DataFrame, test: pd.Da
     )
     _set_text(
         _find_shape(sl, "TextBox 38"),
-        "• Saat ini berjalan lokal (deployment online bersifat opsional).\n• Belum terhubung sensor IoT/database histori lahan.\n• Belum memiliki detektor out-of-distribution (OOD) otomatis.",
+        "• Berjalan di tier gratis Streamlit Cloud (dapat sleep jika lama tidak diakses).\n• Belum terhubung sensor IoT/database histori lahan.\n• Belum memiliki detektor out-of-distribution (OOD) otomatis.",
         size=16.5,
         color=WHITE,
         align=PP_ALIGN.LEFT,
@@ -991,7 +994,7 @@ def build_ppt_from_template(s: dict, config: dict, cv: pd.DataFrame, test: pd.Da
     dev_box.line.width = Pt(1.5)
     _add_textbox(
         sl,
-        "Pengembangan Selanjutnya: Kumpulkan dataset lahan Indonesia ber-ID lokasi & waktu, verifikasi satuan bersama ahli agronomi, terapkan group/time split + kalibrasi probabilitas, integrasi sensor IoT, dan deployment cloud.",
+        "Pengembangan Selanjutnya: Kumpulkan dataset lahan Indonesia ber-ID lokasi & waktu, verifikasi satuan bersama ahli agronomi, terapkan group/time split + kalibrasi probabilitas, integrasi sensor IoT, dan deteksi OOD.",
         1.32,
         9.80,
         17.35,

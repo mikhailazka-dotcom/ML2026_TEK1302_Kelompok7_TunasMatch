@@ -419,11 +419,13 @@ def build_portfolio_doc(s, config, cv, test):
             style="List Bullet",
         )
 
-    doc.add_heading("3. Tautan Dataset & Aplikasi", 1)
+    doc.add_heading("3. Tautan Dataset, Repository, & Aplikasi", 1)
     doc.add_paragraph(f"Dataset sumber: Crop Recommendation Dataset (Atharva Ingle, Kaggle) — {SOURCE_URL}")
     doc.add_paragraph(f"Berkas lokal: Crop_recommendation.csv (SHA-256: {s['dataset_sha256']}), 2.200 baris × 8 kolom, 7 fitur numerik (N, P, K, temperature, humidity, ph, rainfall), 22 kelas tanaman seimbang (100/kelas), 0 missing, 0 duplikat.")
-    dep = config.get("deployment_url") or "Aplikasi dijalankan lokal melalui Streamlit (python -m streamlit run app.py atau JALANKAN_APLIKASI.bat); deployment cloud bersifat opsional."
-    doc.add_paragraph(f"Aplikasi Web ({APP_NAME}): {dep}")
+    if config.get("repo_url"):
+        doc.add_paragraph(f"Repository GitHub: {config['repo_url']}")
+    dep = config.get("deployment_url") or "Aplikasi dijalankan lokal melalui Streamlit (python -m streamlit run app.py atau JALANKAN_APLIKASI.bat)."
+    doc.add_paragraph(f"Aplikasi Web Online ({APP_NAME}): {dep}")
 
     doc.add_heading("4. Penjelasan Implementasi Machine Learning", 1)
     doc.add_heading("4.1 Preprocessing Data (Bebas Data Leakage)", 2)
@@ -816,6 +818,11 @@ Lihat `README.md` untuk build ulang dan `docs/10_Pemetaan_Ketentuan_Project.md` 
 
 **Anggota Kelompok:**
 {chr(10).join(f"- {m['name']} (`{m['nim']}`) — {m['task']}" for m in config['members'])}
+
+## Tautan Penting
+- **Aplikasi Web Online ({APP_NAME}):** {config.get('deployment_url') or 'Belum di-deploy'}
+- **Repository GitHub:** {config.get('repo_url') or '-'}
+- **Dataset Sumber:** {SOURCE_URL}
 
 Paket lokal lengkap: dataset, training, nested CV/tuning, notebook ber-output, model terlatih, aplikasi Streamlit **{APP_NAME}**, PPT Laporan Project (Bagian A–O), dokumen Portofolio CLASS-IPB, buku Word berbahasa sederhana, lima jurnal/tabel studi literatur, skrip uji otomatis, dan bahan demo. Baca `MULAI_DI_SINI.md`.
 

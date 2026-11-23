@@ -1,5 +1,5 @@
 {
-  "verified_utc": "2026-11-23T16:22:18.472826+00:00",
+  "verified_utc": "2026-11-23T17:27:47.101291+00:00",
   "app_name": "TunasMatch",
   "group_name": "Kelompok 7",
   "class": "TEK1302|Pembelajaran Mesin",
@@ -13,9 +13,9 @@
   "notebook_errors": 0,
   "ppt_slides": 22,
   "word_paragraphs": 246,
-  "portofolio_paragraphs": 26,
+  "portofolio_paragraphs": 27,
   "selected_model": "Logistic Regression",
-  "pytest_core": "...................                                                      [100%]\n19 passed, 1 deselected in 2.12s",
+  "pytest_core": "...................                                                      [100%]\n19 passed, 1 deselected in 2.15s",
   "browser": {
     "executed_utc": "2026-11-11T14:33:01.411966+00:00",
     "checks_passed": [
@@ -44,8 +44,7 @@
   "human_steps_remaining": [
     "Rekam/sunting video demo akhir maksimal 7 menit dengan perkenalan & narasi ketiga anggota (menunjukkan aplikasi TunasMatch dijalankan nyata).",
     "Rename folder pengumpulan sebelum unggah sesuai format ML2026_Kelas_NamaKelompok_JudulProject (mis. ML2026_TEK1302_Kelompok7_TunasMatch).",
-    "Pastikan seluruh 3 anggota siap menjelaskan konsep, metode, kode, hasil, dan aplikasi pada sesi tanya jawab individu.",
-    "Deployment online opsional (Streamlit Community Cloud) belum diisi — aplikasi lokal siap dijalankan."
+    "Pastikan seluruh 3 anggota siap menjelaskan konsep, metode, kode, hasil, dan aplikasi pada sesi tanya jawab individu."
   ],
   "status": "Seluruh artefak teknis, identitas kelompok, PPT Laporan A–O, Word, Portofolio CLASS-IPB, dan Notebook sudah lengkap & terverifikasi (tinggal video demo final & rename folder saat pengumpulan)."
 }

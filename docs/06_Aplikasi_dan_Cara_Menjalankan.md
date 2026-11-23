@@ -20,7 +20,7 @@ CSV maksimal 5 MB dan 10.000 baris. Teks, angka tak hingga, nilai kosong, pH di 
 ## Membaca hasil dengan benar
 Jika aplikasi menulis padi dengan skor 90%, artinya model menaruh skor 0,90 untuk kelas padi di antara 22 kelas yang dikenal. Ini bukan peluang panen berhasil. Tiga pilihan dapat mempunyai skor seri atau nol; pilihan nol bukan saran kuat. Min/median/max tanaman menggambarkan training, bukan kebutuhan ideal yang telah diverifikasi.
 
-Kode tidak menyimpan input pengguna secara permanen. Jika aplikasi di-deploy online, data tetap dikirim ke server untuk diproses. Belum ada sistem akun, monitoring agronomis atau IoT. Link deployment: BELUM DIBUAT; tidak mengklaim aplikasi sudah online.
+Kode tidak menyimpan input pengguna secara permanen. Jika aplikasi di-deploy online, data tetap dikirim ke server untuk diproses. Belum ada sistem akun, monitoring agronomis atau IoT. Link deployment: https://ml2026tek1302kelompok7tunasmatch.streamlit.app
 
 ## Membuat ulang proyek
 Pasang requirements-dev.txt. Jalankan python train.py; python build_materials.py; python execute_notebook.py; python -m pytest -q; python capture_demo.py; lalu python build_materials.py untuk menyisipkan screenshot terbaru. Notebook mengeksekusi training ke folder audit sementara, tidak menimpa model utama. Perubahan dependency sklearn memerlukan training ulang dan pengujian ulang.

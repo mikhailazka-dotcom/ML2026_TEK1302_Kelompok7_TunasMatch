@@ -18,7 +18,8 @@
       "task": "Implementasi Aplikasi TunasMatch, Dokumentasi, dan Video Demo"
     }
   ],
-  "deployment_url": "",
+  "deployment_url": "https://ml2026tek1302kelompok7tunasmatch.streamlit.app",
+  "repo_url": "https://github.com/mikhailazka-dotcom/ML2026_TEK1302_Kelompok7_TunasMatch",
   "video_url": "",
   "note": "Kelompok 7 - TunasMatch"
 }
