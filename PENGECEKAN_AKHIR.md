@@ -11,9 +11,4 @@ Anggota: Azaria Nur Febriasari (J0404241041), Radinal Avram Utama (J0404241161),
 - **Studi Literatur:** 5 artikel ilmiah nyata beserta metadata Crossref/DOI, 4 PDF lokal (`R2`–`R5`), full-text `R1`, dan `references/Tabel_Studi_Literatur.csv`.
 - **Model Aktif:** `Logistic Regression` (Nested CV macro-F1 `0.9852`, Test accuracy `96.82%`). Dipilih lewat Nested CV, bukan test accuracy tertinggi.
 
-## Sisa Pekerjaan Kelompok (Non-Otomatis)
-- Rekam/sunting video demo akhir maksimal 7 menit dengan perkenalan & narasi ketiga anggota (menunjukkan aplikasi TunasMatch dijalankan nyata).
-- Rename folder pengumpulan sebelum unggah sesuai format ML2026_Kelas_NamaKelompok_JudulProject (mis. ML2026_TEK1302_Kelompok7_TunasMatch).
-- Pastikan seluruh 3 anggota siap menjelaskan konsep, metode, kode, hasil, dan aplikasi pada sesi tanya jawab individu.
-
 Baca `MULAI_DI_SINI.md` untuk membuka berkas dan menjalankan aplikasi.
