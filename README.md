@@ -12,7 +12,7 @@ Klasifikasi Rekomendasi Jenis Tanaman Berdasarkan Kandungan Hara Tanah dan Kondi
 - **Repository GitHub:** https://github.com/mikhailazka-dotcom/ML2026_TEK1302_Kelompok7_TunasMatch
 - **Dataset Sumber:** https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
-Paket lokal lengkap: dataset, training, nested CV/tuning, notebook ber-output, model terlatih, aplikasi Streamlit **TunasMatch**, PPT Laporan Project (Bagian A–O), dokumen Portofolio CLASS-IPB, buku Word berbahasa sederhana, lima jurnal/tabel studi literatur, skrip uji otomatis, dan bahan demo. Baca `MULAI_DI_SINI.md`.
+Paket lokal lengkap: dataset, training, nested CV/tuning, notebook ber-output, model terlatih, aplikasi Streamlit **TunasMatch**, skrip uji otomatis, dan bahan demo. Baca `MULAI_DI_SINI.md`.
 
 ## Jalankan aplikasi
 ```powershell
@@ -51,20 +51,10 @@ Notebook menggunakan alur `train.py` yang sama dan folder audit sementara untuk 
 - `results/`: audit data, split, label, seluruh grid, nested folds, prediksi/error, evaluasi per kelas.
 - `plots/`: grafik EDA training, korelasi, confusion matrix 22×22, feature importance, scaling, perbandingan.
 - `examples/`: template input, contoh batch training, dan contoh input invalid.
-- `presentation/Laporan_Proyek_Tanaman.pptx`: PPT Laporan Project final (22 slide, Bagian A–O, memakai template `ppt pengenalan projek.pptx`).
-- `docs/TEK1302_Kelompok7.docx`: dokumen siap unggah tugas *Portofolio Project* CLASS-IPB.
-- `docs/Penjelasan_Tanaman_Bahasa_Sederhana.docx`: buku penjelasan lengkap berbahasa sederhana.
-- `references/`: 5 jurnal nyata, DOI/metadata Crossref, PDF/full-text, dan tabel studi literatur.
-- `video/`: naskah demo ≤ 7 menit dan rekaman layar bahan demo.
 - `tests/`: pengujian otomatis data/model/inferensi/antarmuka; `verify_project.py` mengaudit paket.
 
 ## Batasan dan kejujuran
 Sumber yang dirujuk Kaggle Atharva Ingle. R1 menyebut konteks India/augmentasi, tetapi asal tiap baris dan prosedur augmentasi tidak dapat diaudit dari CSV. Satuan NPK dan periode hujan perlu konfirmasi. Label bukan bukti kondisi optimal/hasil panen. Tidak ada validasi eksternal Indonesia; probabilitas belum dikalibrasi. Hasil akurasi bukan janji keuntungan petani.
-
-## Langkah akhir sebelum unggah
-- Rekam/tambahkan narasi dan perkenalan ketiga anggota pada video demo (maksimal 7 menit, menampilkan aplikasi TunasMatch berjalan langsung).
-- Rename folder pengumpulan sesuai format `ML2026_Kelas_NamaKelompok_JudulProject` (contoh: `ML2026_TEK1302_Kelompok7_TunasMatch`).
-- Deployment online bersifat opsional (`docs/09_Deployment.md`).
 
 ## Environment dan masalah umum
 Versi diuji ada di `results/summary.json` dan `requirements*.txt`. Jika port 8501 sibuk: `python -m streamlit run app.py --server.port 8502`.
